@@ -1,0 +1,42 @@
+void GetThreads()
+    {
+        walls.Clear();
+        Vector2 checkDirection, pointer;
+
+        for (int y = 0; y < pointsGrid.GetLength(1); y++)
+        {
+            for (int x = 0; x < pointsGrid.GetLength(0); x++)
+            {
+                if (pointsGrid[x, y] != 0 && !CheckWallsList(new Vector2(x, y)))
+                {
+                    List<Vector2> thread = new List<Vector2>();
+
+                    checkDirection = Vector2.right;
+                    Vector2 prevCheckDirection = Vector2.zero;
+                    pointer = new Vector2(x,y);
+
+                    bool keepGoing = true;
+                    
+                    while (keepGoing) {
+                        thread.Add(pointer);
+                        keepGoing = false;
+                        for (int i = 0; i < 4; i++)
+                        {
+                            Vector2 checkPosition = pointer + checkDirection;
+                            if (InsideIndex(checkPosition, pointsGrid.GetLength(0)) && pointsGrid[(int)checkPosition.x, (int)checkPosition.y] != 0 && !CheckWallsList(checkPosition))
+                            {
+                                keepGoing = true;
+                                pointer = checkPosition;
+                                prevCheckDirection = -checkDirection;
+                                break;
+                            }                            
+                            GridF.RotateVector(checkDirection);
+                            if (checkDirection == prevCheckDirection) GridF.RotateVector(checkDirection); //rotate 2 times to avoid backwards movement
+                        }                    
+                    }
+
+                    walls.Add(thread);
+                }
+            }
+        }
+    }

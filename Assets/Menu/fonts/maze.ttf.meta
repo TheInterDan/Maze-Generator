@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d10bf8a0303ae00449d8dcddc8db4341
+timeCreated: 1492318001
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 25
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - maze
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9f2b3b7e225d40a48a881f4127b4efc2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

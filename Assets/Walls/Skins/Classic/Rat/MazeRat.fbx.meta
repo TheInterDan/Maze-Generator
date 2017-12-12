@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 0f79c3842c2fe054fb49f7c72b03ed89
+timeCreated: 1493351442
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackDownLeg_L
+    100002: BackDownLeg_L_end
+    100004: BackDownLeg_R
+    100006: BackDownLeg_R_end
+    100008: BackFoot_L
+    100010: BackFoot_L_end
+    100012: BackFoot_R
+    100014: BackFoot_R_end
+    100016: BackLeg_L
+    100018: BackLeg_R
+    100020: BackUpperFoot_L
+    100022: BackUpperFoot_L_end
+    100024: BackUpperFoot_R
+    100026: BackUpperFoot_R_end
+    100028: BConnect_L
+    100030: BConnect_R
+    100032: Bone
+    100034: Bone_end
+    100036: FConect_L
+    100038: FConect_R
+    100040: FrontDownLeg_L
+    100042: FrontDownLeg_L_end
+    100044: FrontDownLeg_R
+    100046: FrontDownLeg_R_end
+    100048: FrontFoot_L
+    100050: FrontFoot_L_end
+    100052: FrontFoot_R
+    100054: FrontFoot_R_end
+    100056: FrontLeg_L
+    100058: FrontLeg_R
+    100060: FrontUpperFoot_L
+    100062: FrontUpperFoot_L_end
+    100064: FrontUpperFoot_R
+    100066: FrontUpperFoot_R_end
+    100068: Head
+    100070: Head_end
+    100072: LowerSpine
+    100074: LowerSpine_end
+    100076: //RootNode
+    100078: MidSpine
+    100080: Neck
+    100082: Rat
+    100084: RatArmature
+    100086: Shoulder
+    100088: UpperSpine
+    400000: BackDownLeg_L
+    400002: BackDownLeg_L_end
+    400004: BackDownLeg_R
+    400006: BackDownLeg_R_end
+    400008: BackFoot_L
+    400010: BackFoot_L_end
+    400012: BackFoot_R
+    400014: BackFoot_R_end
+    400016: BackLeg_L
+    400018: BackLeg_R
+    400020: BackUpperFoot_L
+    400022: BackUpperFoot_L_end
+    400024: BackUpperFoot_R
+    400026: BackUpperFoot_R_end
+    400028: BConnect_L
+    400030: BConnect_R
+    400032: Bone
+    400034: Bone_end
+    400036: FConect_L
+    400038: FConect_R
+    400040: FrontDownLeg_L
+    400042: FrontDownLeg_L_end
+    400044: FrontDownLeg_R
+    400046: FrontDownLeg_R_end
+    400048: FrontFoot_L
+    400050: FrontFoot_L_end
+    400052: FrontFoot_R
+    400054: FrontFoot_R_end
+    400056: FrontLeg_L
+    400058: FrontLeg_R
+    400060: FrontUpperFoot_L
+    400062: FrontUpperFoot_L_end
+    400064: FrontUpperFoot_R
+    400066: FrontUpperFoot_R_end
+    400068: Head
+    400070: Head_end
+    400072: LowerSpine
+    400074: LowerSpine_end
+    400076: //RootNode
+    400078: MidSpine
+    400080: Neck
+    400082: Rat
+    400084: RatArmature
+    400086: Shoulder
+    400088: UpperSpine
+    4300000: Rat
+    7400000: RatArmature|Default
+    7400002: RatArmature|Run
+    7400004: Rat|Default
+    9500000: //RootNode
+    13700000: Rat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RatArmature|Default
+      takeName: RatArmature|Default
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rat
+        weight: 1
+      - path: RatArmature
+        weight: 1
+      - path: RatArmature/BackFoot_L
+        weight: 1
+      - path: RatArmature/BackFoot_L/BackFoot_L_end
+        weight: 1
+      - path: RatArmature/BackFoot_R
+        weight: 1
+      - path: RatArmature/BackFoot_R/BackFoot_R_end
+        weight: 1
+      - path: RatArmature/BackUpperFoot_L
+        weight: 1
+      - path: RatArmature/BackUpperFoot_L/BackUpperFoot_L_end
+        weight: 1
+      - path: RatArmature/BackUpperFoot_R
+        weight: 1
+      - path: RatArmature/BackUpperFoot_R/BackUpperFoot_R_end
+        weight: 1
+      - path: RatArmature/Bone
+        weight: 1
+      - path: RatArmature/Bone/Bone_end
+        weight: 1
+      - path: RatArmature/FrontFoot_L
+        weight: 1
+      - path: RatArmature/FrontFoot_L/FrontFoot_L_end
+        weight: 1
+      - path: RatArmature/FrontFoot_R
+        weight: 1
+      - path: RatArmature/FrontFoot_R/FrontFoot_R_end
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_L
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_L/FrontUpperFoot_L_end
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_R
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_R/FrontUpperFoot_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L/FrontDownLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L/FrontDownLeg_L/FrontDownLeg_L_end
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R/FrontDownLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R/FrontDownLeg_R/FrontDownLeg_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L/BackDownLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L/BackDownLeg_L/BackDownLeg_L_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R/BackDownLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R/BackDownLeg_R/BackDownLeg_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/LowerSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/LowerSpine/LowerSpine_end
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck/Head
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck/Head/Head_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RatArmature|Run
+      takeName: RatArmature|Run
+      firstFrame: 1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rat
+        weight: 1
+      - path: RatArmature
+        weight: 1
+      - path: RatArmature/BackFoot_L
+        weight: 1
+      - path: RatArmature/BackFoot_L/BackFoot_L_end
+        weight: 1
+      - path: RatArmature/BackFoot_R
+        weight: 1
+      - path: RatArmature/BackFoot_R/BackFoot_R_end
+        weight: 1
+      - path: RatArmature/BackUpperFoot_L
+        weight: 1
+      - path: RatArmature/BackUpperFoot_L/BackUpperFoot_L_end
+        weight: 1
+      - path: RatArmature/BackUpperFoot_R
+        weight: 1
+      - path: RatArmature/BackUpperFoot_R/BackUpperFoot_R_end
+        weight: 1
+      - path: RatArmature/Bone
+        weight: 1
+      - path: RatArmature/Bone/Bone_end
+        weight: 1
+      - path: RatArmature/FrontFoot_L
+        weight: 1
+      - path: RatArmature/FrontFoot_L/FrontFoot_L_end
+        weight: 1
+      - path: RatArmature/FrontFoot_R
+        weight: 1
+      - path: RatArmature/FrontFoot_R/FrontFoot_R_end
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_L
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_L/FrontUpperFoot_L_end
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_R
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_R/FrontUpperFoot_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L/FrontDownLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L/FrontDownLeg_L/FrontDownLeg_L_end
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R/FrontDownLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R/FrontDownLeg_R/FrontDownLeg_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L/BackDownLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L/BackDownLeg_L/BackDownLeg_L_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R/BackDownLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R/BackDownLeg_R/BackDownLeg_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/LowerSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/LowerSpine/LowerSpine_end
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck/Head
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck/Head/Head_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rat|Default
+      takeName: Rat|Default
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rat
+        weight: 1
+      - path: RatArmature
+        weight: 1
+      - path: RatArmature/BackFoot_L
+        weight: 1
+      - path: RatArmature/BackFoot_L/BackFoot_L_end
+        weight: 1
+      - path: RatArmature/BackFoot_R
+        weight: 1
+      - path: RatArmature/BackFoot_R/BackFoot_R_end
+        weight: 1
+      - path: RatArmature/BackUpperFoot_L
+        weight: 1
+      - path: RatArmature/BackUpperFoot_L/BackUpperFoot_L_end
+        weight: 1
+      - path: RatArmature/BackUpperFoot_R
+        weight: 1
+      - path: RatArmature/BackUpperFoot_R/BackUpperFoot_R_end
+        weight: 1
+      - path: RatArmature/Bone
+        weight: 1
+      - path: RatArmature/Bone/Bone_end
+        weight: 1
+      - path: RatArmature/FrontFoot_L
+        weight: 1
+      - path: RatArmature/FrontFoot_L/FrontFoot_L_end
+        weight: 1
+      - path: RatArmature/FrontFoot_R
+        weight: 1
+      - path: RatArmature/FrontFoot_R/FrontFoot_R_end
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_L
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_L/FrontUpperFoot_L_end
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_R
+        weight: 1
+      - path: RatArmature/FrontUpperFoot_R/FrontUpperFoot_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L/FrontDownLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_L/FrontLeg_L/FrontDownLeg_L/FrontDownLeg_L_end
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R/FrontDownLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/FConect_R/FrontLeg_R/FrontDownLeg_R/FrontDownLeg_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L/BackDownLeg_L
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_L/BackLeg_L/BackDownLeg_L/BackDownLeg_L_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R/BackDownLeg_R
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/BConnect_R/BackLeg_R/BackDownLeg_R/BackDownLeg_R_end
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/LowerSpine
+        weight: 1
+      - path: RatArmature/UpperSpine/MidSpine/LowerSpine/LowerSpine_end
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck/Head
+        weight: 1
+      - path: RatArmature/UpperSpine/Shoulder/Neck/Head/Head_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

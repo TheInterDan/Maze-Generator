@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Walls/Skins/Hedge/Bushes.unity
+  isLoaded: 1
+  isActive: 1

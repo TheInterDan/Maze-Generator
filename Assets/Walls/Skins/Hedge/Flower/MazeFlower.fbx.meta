@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 55a1e08bc3718ee478129f7131a1101e
+timeCreated: 1493456429
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: //RootNode
+    100004: PetalRing
+    100006: PetalRing.001
+    100008: PetalRing.001|SinglePetal.001|Dupli|5
+    100010: PetalRing.001|SinglePetal.002|Dupli|4
+    100012: PetalRing.001|SinglePetal.003|Dupli|3
+    100014: PetalRing.001|SinglePetal.004|Dupli|2
+    100016: PetalRing.001|SinglePetal.005|Dupli|1
+    100018: PetalRing.001|SinglePetal.006|Dupli|0
+    100020: PetalRing.002
+    100022: PetalRing.002|SinglePetal.001|Dupli|5
+    100024: PetalRing.002|SinglePetal.002|Dupli|4
+    100026: PetalRing.002|SinglePetal.003|Dupli|3
+    100028: PetalRing.002|SinglePetal.004|Dupli|2
+    100030: PetalRing.002|SinglePetal.005|Dupli|1
+    100032: PetalRing.002|SinglePetal.006|Dupli|0
+    100034: PetalRing.003
+    100036: PetalRing.003|SinglePetal.001|Dupli|5
+    100038: PetalRing.003|SinglePetal.002|Dupli|4
+    100040: PetalRing.003|SinglePetal.003|Dupli|3
+    100042: PetalRing.003|SinglePetal.004|Dupli|2
+    100044: PetalRing.003|SinglePetal.005|Dupli|1
+    100046: PetalRing.003|SinglePetal.006|Dupli|0
+    100048: PetalRing|SinglePetal.001|Dupli|5
+    100050: PetalRing|SinglePetal.002|Dupli|4
+    100052: PetalRing|SinglePetal.003|Dupli|3
+    100054: PetalRing|SinglePetal.004|Dupli|2
+    100056: PetalRing|SinglePetal.005|Dupli|1
+    100058: PetalRing|SinglePetal.006|Dupli|0
+    100060: SinglePetal.001
+    100062: SinglePetal.002
+    100064: SinglePetal.003
+    100066: SinglePetal.004
+    100068: SinglePetal.005
+    100070: SinglePetal.006
+    400000: Cylinder
+    400002: //RootNode
+    400004: PetalRing
+    400006: PetalRing.001
+    400008: PetalRing.001|SinglePetal.001|Dupli|5
+    400010: PetalRing.001|SinglePetal.002|Dupli|4
+    400012: PetalRing.001|SinglePetal.003|Dupli|3
+    400014: PetalRing.001|SinglePetal.004|Dupli|2
+    400016: PetalRing.001|SinglePetal.005|Dupli|1
+    400018: PetalRing.001|SinglePetal.006|Dupli|0
+    400020: PetalRing.002
+    400022: PetalRing.002|SinglePetal.001|Dupli|5
+    400024: PetalRing.002|SinglePetal.002|Dupli|4
+    400026: PetalRing.002|SinglePetal.003|Dupli|3
+    400028: PetalRing.002|SinglePetal.004|Dupli|2
+    400030: PetalRing.002|SinglePetal.005|Dupli|1
+    400032: PetalRing.002|SinglePetal.006|Dupli|0
+    400034: PetalRing.003
+    400036: PetalRing.003|SinglePetal.001|Dupli|5
+    400038: PetalRing.003|SinglePetal.002|Dupli|4
+    400040: PetalRing.003|SinglePetal.003|Dupli|3
+    400042: PetalRing.003|SinglePetal.004|Dupli|2
+    400044: PetalRing.003|SinglePetal.005|Dupli|1
+    400046: PetalRing.003|SinglePetal.006|Dupli|0
+    400048: PetalRing|SinglePetal.001|Dupli|5
+    400050: PetalRing|SinglePetal.002|Dupli|4
+    400052: PetalRing|SinglePetal.003|Dupli|3
+    400054: PetalRing|SinglePetal.004|Dupli|2
+    400056: PetalRing|SinglePetal.005|Dupli|1
+    400058: PetalRing|SinglePetal.006|Dupli|0
+    400060: SinglePetal.001
+    400062: SinglePetal.002
+    400064: SinglePetal.003
+    400066: SinglePetal.004
+    400068: SinglePetal.005
+    400070: SinglePetal.006
+    2300000: Cylinder
+    2300002: PetalRing.001|SinglePetal.001|Dupli|5
+    2300004: PetalRing.001|SinglePetal.002|Dupli|4
+    2300006: PetalRing.001|SinglePetal.003|Dupli|3
+    2300008: PetalRing.001|SinglePetal.004|Dupli|2
+    2300010: PetalRing.001|SinglePetal.005|Dupli|1
+    2300012: PetalRing.001|SinglePetal.006|Dupli|0
+    2300014: PetalRing.002|SinglePetal.001|Dupli|5
+    2300016: PetalRing.002|SinglePetal.002|Dupli|4
+    2300018: PetalRing.002|SinglePetal.003|Dupli|3
+    2300020: PetalRing.002|SinglePetal.004|Dupli|2
+    2300022: PetalRing.002|SinglePetal.005|Dupli|1
+    2300024: PetalRing.002|SinglePetal.006|Dupli|0
+    2300026: PetalRing.003|SinglePetal.001|Dupli|5
+    2300028: PetalRing.003|SinglePetal.002|Dupli|4
+    2300030: PetalRing.003|SinglePetal.003|Dupli|3
+    2300032: PetalRing.003|SinglePetal.004|Dupli|2
+    2300034: PetalRing.003|SinglePetal.005|Dupli|1
+    2300036: PetalRing.003|SinglePetal.006|Dupli|0
+    2300038: PetalRing|SinglePetal.001|Dupli|5
+    2300040: PetalRing|SinglePetal.002|Dupli|4
+    2300042: PetalRing|SinglePetal.003|Dupli|3
+    2300044: PetalRing|SinglePetal.004|Dupli|2
+    2300046: PetalRing|SinglePetal.005|Dupli|1
+    2300048: PetalRing|SinglePetal.006|Dupli|0
+    2300050: SinglePetal.001
+    2300052: SinglePetal.002
+    2300054: SinglePetal.003
+    2300056: SinglePetal.004
+    2300058: SinglePetal.005
+    2300060: SinglePetal.006
+    3300000: Cylinder
+    3300002: PetalRing.001|SinglePetal.001|Dupli|5
+    3300004: PetalRing.001|SinglePetal.002|Dupli|4
+    3300006: PetalRing.001|SinglePetal.003|Dupli|3
+    3300008: PetalRing.001|SinglePetal.004|Dupli|2
+    3300010: PetalRing.001|SinglePetal.005|Dupli|1
+    3300012: PetalRing.001|SinglePetal.006|Dupli|0
+    3300014: PetalRing.002|SinglePetal.001|Dupli|5
+    3300016: PetalRing.002|SinglePetal.002|Dupli|4
+    3300018: PetalRing.002|SinglePetal.003|Dupli|3
+    3300020: PetalRing.002|SinglePetal.004|Dupli|2
+    3300022: PetalRing.002|SinglePetal.005|Dupli|1
+    3300024: PetalRing.002|SinglePetal.006|Dupli|0
+    3300026: PetalRing.003|SinglePetal.001|Dupli|5
+    3300028: PetalRing.003|SinglePetal.002|Dupli|4
+    3300030: PetalRing.003|SinglePetal.003|Dupli|3
+    3300032: PetalRing.003|SinglePetal.004|Dupli|2
+    3300034: PetalRing.003|SinglePetal.005|Dupli|1
+    3300036: PetalRing.003|SinglePetal.006|Dupli|0
+    3300038: PetalRing|SinglePetal.001|Dupli|5
+    3300040: PetalRing|SinglePetal.002|Dupli|4
+    3300042: PetalRing|SinglePetal.003|Dupli|3
+    3300044: PetalRing|SinglePetal.004|Dupli|2
+    3300046: PetalRing|SinglePetal.005|Dupli|1
+    3300048: PetalRing|SinglePetal.006|Dupli|0
+    3300050: SinglePetal.001
+    3300052: SinglePetal.002
+    3300054: SinglePetal.003
+    3300056: SinglePetal.004
+    3300058: SinglePetal.005
+    3300060: SinglePetal.006
+    4300000: Cylinder
+    4300002: SinglePetal.006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 9c057397674662a468b1a6231a0b9dd1
+timeCreated: 1493193408
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cabeza
+    100004: Cabeza_end
+    100006: Cube
+    100008: Cuello
+    100010: Cuerpo
+    100012: Dedos.L
+    100014: Dedos.L_end
+    100016: Dedos.R
+    100018: Dedos.R_end
+    100020: DedosControl.L
+    100022: DedosControl.L_end
+    100024: DedosControl.R
+    100026: DedosControl.R_end
+    100028: PataIK.L
+    100030: PataIK.L_end
+    100032: PataIK.R
+    100034: PataIK.R_end
+    100036: PataInf.L
+    100038: PataInf.L_end
+    100040: PataInf.R
+    100042: PataInf.R_end
+    100044: PataPole.L
+    100046: PataPole.L_end
+    100048: PataPole.R
+    100050: PataPole.R_end
+    100052: PataSup.L
+    100054: PataSup.R
+    100056: //RootNode
+    100058: Pie.L
+    100060: Pie.R
+    100062: PieControl.L
+    100064: PieControl.R
+    100066: PieRoll.L
+    100068: PieRoll.R
+    400000: Armature
+    400002: Cabeza
+    400004: Cabeza_end
+    400006: Cube
+    400008: Cuello
+    400010: Cuerpo
+    400012: Dedos.L
+    400014: Dedos.L_end
+    400016: Dedos.R
+    400018: Dedos.R_end
+    400020: DedosControl.L
+    400022: DedosControl.L_end
+    400024: DedosControl.R
+    400026: DedosControl.R_end
+    400028: PataIK.L
+    400030: PataIK.L_end
+    400032: PataIK.R
+    400034: PataIK.R_end
+    400036: PataInf.L
+    400038: PataInf.L_end
+    400040: PataInf.R
+    400042: PataInf.R_end
+    400044: PataPole.L
+    400046: PataPole.L_end
+    400048: PataPole.R
+    400050: PataPole.R_end
+    400052: PataSup.L
+    400054: PataSup.R
+    400056: //RootNode
+    400058: Pie.L
+    400060: Pie.R
+    400062: PieControl.L
+    400064: PieControl.R
+    400066: PieRoll.L
+    400068: PieRoll.R
+    4300000: Cube
+    7400000: Armature|Andar
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Andar
+      takeName: Armature|Andar
+      firstFrame: 1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Cuerpo
+        weight: 1
+      - path: Armature/Cuerpo/Cuello
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Cabeza
+        weight: 1
+      - path: Armature/Cuerpo/Cuello/Cabeza/Cabeza_end
+        weight: 1
+      - path: Armature/Cuerpo/PataSup.L
+        weight: 1
+      - path: Armature/Cuerpo/PataSup.L/PataInf.L
+        weight: 1
+      - path: Armature/Cuerpo/PataSup.L/PataInf.L/PataInf.L_end
+        weight: 1
+      - path: Armature/Cuerpo/PataSup.R
+        weight: 1
+      - path: Armature/Cuerpo/PataSup.R/PataInf.R
+        weight: 1
+      - path: Armature/Cuerpo/PataSup.R/PataInf.R/PataInf.R_end
+        weight: 1
+      - path: Armature/PataPole.L
+        weight: 1
+      - path: Armature/PataPole.L/PataPole.L_end
+        weight: 1
+      - path: Armature/PataPole.R
+        weight: 1
+      - path: Armature/PataPole.R/PataPole.R_end
+        weight: 1
+      - path: Armature/PieControl.L
+        weight: 1
+      - path: Armature/PieControl.L/DedosControl.L
+        weight: 1
+      - path: Armature/PieControl.L/DedosControl.L/DedosControl.L_end
+        weight: 1
+      - path: Armature/PieControl.L/Pie.L
+        weight: 1
+      - path: Armature/PieControl.L/Pie.L/Dedos.L
+        weight: 1
+      - path: Armature/PieControl.L/Pie.L/Dedos.L/Dedos.L_end
+        weight: 1
+      - path: Armature/PieControl.L/PieRoll.L
+        weight: 1
+      - path: Armature/PieControl.L/PieRoll.L/PataIK.L
+        weight: 1
+      - path: Armature/PieControl.L/PieRoll.L/PataIK.L/PataIK.L_end
+        weight: 1
+      - path: Armature/PieControl.R
+        weight: 1
+      - path: Armature/PieControl.R/DedosControl.R
+        weight: 1
+      - path: Armature/PieControl.R/DedosControl.R/DedosControl.R_end
+        weight: 1
+      - path: Armature/PieControl.R/Pie.R
+        weight: 1
+      - path: Armature/PieControl.R/Pie.R/Dedos.R
+        weight: 1
+      - path: Armature/PieControl.R/Pie.R/Dedos.R/Dedos.R_end
+        weight: 1
+      - path: Armature/PieControl.R/PieRoll.R
+        weight: 1
+      - path: Armature/PieControl.R/PieRoll.R/PataIK.R
+        weight: 1
+      - path: Armature/PieControl.R/PieRoll.R/PataIK.R/PataIK.R_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
